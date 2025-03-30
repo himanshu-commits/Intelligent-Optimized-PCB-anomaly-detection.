@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on detecting anomalies in Printed Circuit Boards (PCBs) using image processing and machine learning techniques. The implemented model identifies missing components, misalignments, and soldering defects while maintaining robustness to variations in lighting and orientation.
 
+<img width="674" alt="Screenshot 2025-03-30 at 12 22 30 PM" src="https://github.com/user-attachments/assets/a8ae3049-1302-4dde-bae5-bdb4b828f6e6" />
+
 ## Approach and Methodology
 The methodology consists of three main stages:
 
